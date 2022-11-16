@@ -1,0 +1,6 @@
+1 - correlation matrix
+2 - model creation
+3 - model quantification
+4 - verification (testing our model) - significance of our variables, 
+autocorrelation, multicollinearity, heterokedasticity
+5 - conclusions about the model
